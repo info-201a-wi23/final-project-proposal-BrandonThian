@@ -70,3 +70,13 @@ We only have one dataset source which is from USCIS. Since we do not have additi
 
 ## Acknowledgements
 We would like to thank our TA, Shachi Sonar, for approving the idea for our project!
+
+## Works Cited
+
+American Immigration Council. (2022, July 15). The H-1B visa program and its impact on the U.S. economy. American Immigration Council. Retrieved February 2, 2023, from https://www.americanimmigrationcouncil.org/research/h1b-visa-program-fact-sheet
+
+Bhattacharya, A. (2020, November 1). How the H-1B Visa Works, in 5 charts. Quartz. Retrieved February 2, 2023, from https://qz.com/india/1916876/your-questions-about-the-h2-b-visa-answered
+
+Ruiz, N. G., & Krogstad, J. M. (2018, March 29). East Coast and Texas Metros had the most H-1B visas for skilled workers from 2010 to 2016. Pew Research Center. Retrieved February 2, 2023, from https://www.pewresearch.org/fact-tank/2018/03/29/h-1b-visa-approvals-by-us-metro-area
+
+Saada, S. (2023, January 31). H-1B visa 2022-2023 CAP season: The definitive guide. VisaNation. Retrieved February 2, 2023, from https://www.immi-usa.com/h1b-visa-2018-cap
